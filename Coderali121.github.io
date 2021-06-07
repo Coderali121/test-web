@@ -10,6 +10,11 @@
            p{
            color:rgb(18, 84, 13);
            }
+           background
+           {
+           color:blue;
+           }
+          
         </style>
     </head>
     <body>
